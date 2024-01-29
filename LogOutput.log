@@ -23,7 +23,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 13 plugins to load
+[Info   :   BepInEx] 14 plugins to load
 [Info   :   BepInEx] Loading [Terminal Api 1.5.0]
 [Info   :Terminal Api] Plugin TerminalApi is loaded!
 [Info   :   BepInEx] Loading [Insanity Remastered 1.0.8]
@@ -114,6 +114,8 @@ Parameter name: cachedAudio
 [Error  :   BepInEx] Error loading [Skinwalker Mod 3.0.0] : IL Compile Error (unknown location)
 [Info   :   BepInEx] Loading [Lethal Progression 1.3.2]
 [Info   :Lethal Progression] Lethal Progression loaded.
+[Info   :   BepInEx] Loading [CoilHeadStare 1.0.3]
+[Info   :TDP.CoilHeadStare] CoilHeadStare 1.0.3 loaded.
 [Info   :   BepInEx] Loading [Late Company 1.0.10]
 [Info   :Late Company] Late Company loaded!
 [Info   :   BepInEx] Loading [Mimics 2.3.2]
@@ -284,168 +286,6 @@ Parameter name: cachedAudio
 [Info   :Lethal Progression] Player 30 has 4 slots after setting.
 [Info   :Lethal Progression] Player 31 has 4 slots after setting.
 [Info   :Lethal Progression] 0 players, 1 quotas, 40 initial cost, 0 person value, 30 quota value, 52 total cost.
-[Info   :Lethal Progression] Changed team loot value by 0 turning into 0.
-[Info   :Lethal Progression] XPHandler Initialized.
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   : LethalLib] Adding 0 unlockables to unlockables list
-[Info   : LethalLib] Adding 0 items to terminal
-[Info   : LethalLib] Adding 1 items to terminal
-[Info   : LethalLib] Adding Geiger Counter to terminal
-[Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 90, Item index: 13
-[Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 90, Item index: 13
-[Info   : LethalLib] Generated keyword: geiger-counter
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   : LethalLib] Diagetic mixer is Diagetic
-[Info   : LethalLib] Found 0 prefabs to fix
-[Info   : LethalLib] Fixing Item savedata!!
-[Info   :Lethal Progression] XP Network Behavior Made!
-[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
-[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
-[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
-[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
-[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
-[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
-[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
-[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
-[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
-[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
-[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
-[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
-[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
-[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
-[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
-[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
-[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
-[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
-[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
-[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
-[Info   :Lethal Progression] HP Regen check 1
-[Info   :Lethal Progression] Creating button for HPR
-[Info   :Lethal Progression] Setup passed!
-[Info   :Lethal Progression] Added to skill list..
-[Info   :Lethal Progression] Creating button for STM
-[Info   :Lethal Progression] Setup passed!
-[Info   :Lethal Progression] Added to skill list..
-[Info   :Lethal Progression] Creating button for BAT
-[Info   :Lethal Progression] Setup passed!
-[Info   :Lethal Progression] Added to skill list..
-[Info   :Lethal Progression] Creating button for HND
-[Info   :Lethal Progression] Setup passed!
-[Info   :Lethal Progression] Added to skill list..
-[Info   :Lethal Progression] Creating button for VAL
-[Info   :Lethal Progression] Setup passed!
-[Info   :Lethal Progression] Added to skill list..
-[Info   :Lethal Progression] Creating button for OXY
-[Info   :Lethal Progression] Setup passed!
-[Info   :Lethal Progression] Added to skill list..
-[Info   :Lethal Progression] Setting team value hud to 0
-[Error  :Lethal Progression] Loading XP!
-[Info   :Lethal Progression] 0 players, 1 quotas, 40 initial cost, 0 person value, 30 quota value, 52 total cost.
-[Info   :Lethal Progression] 0 players, 1 quotas, 40 initial cost, 0 person value, 30 quota value, 52 total cost.
-[Info   :Lethal Progression] 52
-[Info   :Lethal Progression] Player 0 has 4 slots after setting.
-[Info   :Lethal Progression] Player 1 has 4 slots after setting.
-[Info   :Lethal Progression] Player 2 has 4 slots after setting.
-[Info   :Lethal Progression] Player 3 has 4 slots after setting.
-[Info   :Lethal Progression] Player 4 has 4 slots after setting.
-[Info   :Lethal Progression] Player 5 has 4 slots after setting.
-[Info   :Lethal Progression] Player 6 has 4 slots after setting.
-[Info   :Lethal Progression] Player 7 has 4 slots after setting.
-[Info   :Lethal Progression] Player 8 has 4 slots after setting.
-[Info   :Lethal Progression] Player 9 has 4 slots after setting.
-[Info   :Lethal Progression] Player 10 has 4 slots after setting.
-[Info   :Lethal Progression] Player 11 has 4 slots after setting.
-[Info   :Lethal Progression] Player 12 has 4 slots after setting.
-[Info   :Lethal Progression] Player 13 has 4 slots after setting.
-[Info   :Lethal Progression] Player 14 has 4 slots after setting.
-[Info   :Lethal Progression] Player 15 has 4 slots after setting.
-[Info   :Lethal Progression] Player 16 has 4 slots after setting.
-[Info   :Lethal Progression] Player 17 has 4 slots after setting.
-[Info   :Lethal Progression] Player 18 has 4 slots after setting.
-[Info   :Lethal Progression] Player 19 has 4 slots after setting.
-[Info   :Lethal Progression] Player 20 has 4 slots after setting.
-[Info   :Lethal Progression] Player 21 has 4 slots after setting.
-[Info   :Lethal Progression] Player 22 has 4 slots after setting.
-[Info   :Lethal Progression] Player 23 has 4 slots after setting.
-[Info   :Lethal Progression] Player 24 has 4 slots after setting.
-[Info   :Lethal Progression] Player 25 has 4 slots after setting.
-[Info   :Lethal Progression] Player 26 has 4 slots after setting.
-[Info   :Lethal Progression] Player 27 has 4 slots after setting.
-[Info   :Lethal Progression] Player 28 has 4 slots after setting.
-[Info   :Lethal Progression] Player 29 has 4 slots after setting.
-[Info   :Lethal Progression] Player 30 has 4 slots after setting.
-[Info   :Lethal Progression] Player 31 has 4 slots after setting.
-[Info   :Lethal Progression] 0 players, 1 quotas, 40 initial cost, 0 person value, 30 quota value, 52 total cost.
-[Info   :Lethal Progression] 5 change, 5 new stamina points, Adding 1.1 resulting in 12.1 stamina
-[Info   :Lethal Progression] 3 change, 8 new stamina points, Adding 0.66 resulting in 12.76 stamina
 [Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
 [Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
 [Info   :Lethal Progression] Loaded host config: XP Minimum = 40
@@ -501,11 +341,202 @@ Parameter name: cachedAudio
 [Info   :Lethal Progression] Player 1 has 4 slots after setting.
 [Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 2
 [Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1.2,     factorySizeMultiplier:1.25]
+[Info   :Lethal Progression] Player 0 has 4 slots after setting.
+[Info   :Lethal Progression] Player 1 has 4 slots after setting.
+[Info   :Lethal Progression] Player 2 has 4 slots after setting.
+[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
+[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
+[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
+[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
+[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
+[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
+[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
+[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
+[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
+[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
+[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
+[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
+[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
+[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
+[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
+[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
+[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
+[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 3
+[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
+[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
+[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
+[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
+[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
+[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
+[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
+[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
+[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
+[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
+[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
+[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
+[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
+[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
+[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
+[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
+[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
+[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
+[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
+[Info   :Lethal Progression] Player 0 has 4 slots after setting.
+[Info   :Lethal Progression] Player 1 has 4 slots after setting.
+[Info   :Lethal Progression] Player 2 has 4 slots after setting.
+[Info   :Lethal Progression] Player 3 has 4 slots after setting.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 4
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] Player 0 has 4 slots after setting.
+[Info   :Lethal Progression] Player 0 has 5 slots after setting.
+[Info   :Lethal Progression] Player 2 has 4 slots after setting.
+[Info   :Lethal Progression] Player 2 has 5 slots after setting.
+[Info   :Lethal Progression] Player 2 has 5 slots after setting.
+[Info   :Lethal Progression] Player 2 has 6 slots after setting.
+[Info   :Lethal Progression] Player 2 has 6 slots after setting.
+[Info   :Lethal Progression] Player 0 has 5 slots after setting.
+[Info   :Lethal Progression] Player 0 has 6 slots after setting.
+[Info   :Lethal Progression] 1 change, 1 new stamina points, Adding 0.22 resulting in 11.22 stamina
+[Info   :Lethal Progression] Player 3 has 4 slots after setting.
+[Info   :Lethal Progression] Player 3 has 5 slots after setting.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1.08,     factorySizeMultiplier:2]
 [Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
 [Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
-[Info   :Lethal Progression] Player 2 has 4 slots after setting.
-[Info   :Lethal Progression] Player 2 has 4 slots after setting.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :Lethal Progression] 4 players, 1 quotas, 40 initial cost, 140 person value, 30 quota value, 234 total cost.
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.484,     scrapAmountMultiplier: 1,     factorySizeMultiplier:2]
+[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Centipede (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: SandSpider (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
+[Info   :Lethal Progression] Player 2 has 6 slots after setting.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
+[Info   :Lethal Progression] 5 change, 6 new stamina points, Adding 1.1 resulting in 12.32 stamina
 [Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
 [Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
 [Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
@@ -528,105 +559,361 @@ Parameter name: cachedAudio
 [Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
 [Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
 [Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1.0845,     factorySizeMultiplier:1.25]
+[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
 [Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
 [Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
 [Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1.0815,     factorySizeMultiplier:2]
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: Centipede (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1.5]
 [Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
 [Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
-[Info   :Lethal Progression] -5 change, 3 new stamina points, Adding -1.1 resulting in 11.66 stamina
-[Info   :Lethal Progression] -3 change, 0 new stamina points, Adding -0.66 resulting in 11 stamina
-[Info   :Lethal Progression] Player 0 has 4 slots after setting.
-[Info   :Lethal Progression] Player 0 has 5 slots after setting.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] Enemy type: SandSpider (EnemyType)
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :me.loaforc.facilitymeltdown] Beginning Meltdown Sequence! I'd run if I was you!
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Error  :me.loaforc.facilitymeltdown] Failed to get volumetric fog!
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 2 quotas, 40 initial cost, 140 person value, 60 quota value, 288 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 3 change, 9 new stamina points, Adding 0.66 resulting in 12.98 stamina
+[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
+[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
+[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
+[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
+[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
+[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
+[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
+[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
+[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
+[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
+[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
+[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
+[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
+[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
+[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
+[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
+[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
+[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
+[Info   :Lethal Progression] Player 0 has 6 slots after setting.
+[Info   :Lethal Progression] Player 2 has 6 slots after setting.
+[Info   :Lethal Progression] Player 3 has 5 slots after setting.
+[Info   :Lethal Progression] Player 4 has 4 slots after setting.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 5
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Player 3 has 5 slots after setting.
+[Info   :Brutal_Company_Minus] Failed to remove 'MaskedPlayerEnemy' from enemy pool, either it dosen't exist on the map or wrong string used.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:2]
+[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
+[Info   :Lethal Progression] Enemy type: SandSpider (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: SandSpider (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Setting team value hud to -2.5
-[Info   :Lethal Progression] Changed team loot value by -2.5 turning into -2.5.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Player 4 has 4 slots after setting.
+[Info   :Lethal Progression] Player 4 has 5 slots after setting.
+[Info   :Lethal Progression] Player 4 has 5 slots after setting.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Setting team value hud to -5
+[Info   :Lethal Progression] Changed team loot value by -5 turning into -5.
 [Info   :Lethal Progression] XPHandler Initialized.
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
@@ -750,9 +1037,9 @@ Parameter name: cachedAudio
 [Info   :Lethal Progression] Added to skill list..
 [Info   :Lethal Progression] Setting team value hud to 0
 [Error  :Lethal Progression] Loading XP!
-[Info   :Lethal Progression] 0 players, 1 quotas, 40 initial cost, 0 person value, 30 quota value, 52 total cost.
-[Info   :Lethal Progression] 0 players, 1 quotas, 40 initial cost, 0 person value, 30 quota value, 52 total cost.
-[Info   :Lethal Progression] 52
+[Info   :Lethal Progression] 0 players, 3 quotas, 40 initial cost, 0 person value, 90 quota value, 76 total cost.
+[Info   :Lethal Progression] 0 players, 3 quotas, 40 initial cost, 0 person value, 90 quota value, 76 total cost.
+[Info   :Lethal Progression] 76
 [Info   :Lethal Progression] Player 0 has 4 slots after setting.
 [Info   :Lethal Progression] Player 1 has 4 slots after setting.
 [Info   :Lethal Progression] Player 2 has 4 slots after setting.
@@ -785,7 +1072,7 @@ Parameter name: cachedAudio
 [Info   :Lethal Progression] Player 29 has 4 slots after setting.
 [Info   :Lethal Progression] Player 30 has 4 slots after setting.
 [Info   :Lethal Progression] Player 31 has 4 slots after setting.
-[Info   :Lethal Progression] 0 players, 1 quotas, 40 initial cost, 0 person value, 30 quota value, 52 total cost.
+[Info   :Lethal Progression] 0 players, 3 quotas, 40 initial cost, 0 person value, 90 quota value, 76 total cost.
 [Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
 [Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
 [Info   :Lethal Progression] Loaded host config: XP Minimum = 40
@@ -811,8 +1098,8 @@ Parameter name: cachedAudio
 [Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
 [Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
 [Info   :Lethal Progression] Player 0 has 4 slots after setting.
-[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 3
-[Info   :Lethal Progression] 1 players, 1 quotas, 40 initial cost, 35 person value, 30 quota value, 97 total cost.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 6
+[Info   :Lethal Progression] 1 players, 3 quotas, 40 initial cost, 35 person value, 90 quota value, 142 total cost.
 [Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
 [Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
 [Info   :Lethal Progression] Loaded host config: XP Minimum = 40
@@ -839,696 +1126,270 @@ Parameter name: cachedAudio
 [Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
 [Info   :Lethal Progression] Player 0 has 4 slots after setting.
 [Info   :Lethal Progression] Player 1 has 4 slots after setting.
-[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 4
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 7
+[Info   :Lethal Progression] 2 players, 3 quotas, 40 initial cost, 70 person value, 90 quota value, 209 total cost.
+[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
+[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
+[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
+[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
+[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
+[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
+[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
+[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
+[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
+[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
+[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
+[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
+[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
+[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
+[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
+[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
+[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
+[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
 [Info   :Lethal Progression] Player 0 has 4 slots after setting.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
+[Info   :Lethal Progression] Player 1 has 4 slots after setting.
+[Info   :Lethal Progression] Player 2 has 4 slots after setting.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 8
+[Info   :Lethal Progression] 3 players, 3 quotas, 40 initial cost, 105 person value, 90 quota value, 275 total cost.
+[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
+[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
+[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
+[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
+[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
+[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
+[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
+[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
+[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
+[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
+[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
+[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
+[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
+[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
+[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
+[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
+[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
+[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
+[Info   :Lethal Progression] Player 0 has 4 slots after setting.
+[Info   :Lethal Progression] Player 1 has 4 slots after setting.
+[Info   :Lethal Progression] Player 2 has 4 slots after setting.
+[Info   :Lethal Progression] Player 3 has 4 slots after setting.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 9
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Player 0 has 4 slots after setting.
 [Info   :Lethal Progression] Player 0 has 5 slots after setting.
-[Info   :Lethal Progression] 2 change, 2 new stamina points, Adding 0.44 resulting in 11.44 stamina
-[Info   :Lethal Progression] Player 1 has 4 slots after setting.
-[Info   :Lethal Progression] Player 1 has 5 slots after setting.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:2]
+[Info   :Lethal Progression] Player 0 has 5 slots after setting.
+[Info   :Lethal Progression] Player 0 has 6 slots after setting.
+[Info   :Lethal Progression] 5 change, 5 new stamina points, Adding 1.1 resulting in 12.1 stamina
+[Info   :Lethal Progression] 5 change, 10 new stamina points, Adding 1.1 resulting in 13.2 stamina
+[Info   :Lethal Progression] 2 change, 12 new stamina points, Adding 0.44 resulting in 13.64 stamina
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1.25]
 [Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
 [Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
-[Info   :me.loaforc.facilitymeltdown] Beginning Meltdown Sequence! I'd run if I was you!
-[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
-[Info   :me.loaforc.facilitymeltdown] Spawning a Flowerman during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Flowerman
-[Info   :me.loaforc.facilitymeltdown] Spawning a Flowerman during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Flowerman
-[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
-[Info   :me.loaforc.facilitymeltdown] Spawning a Flowerman during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Flowerman
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
 [Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:0.75]
-[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.24,     scrapAmountMultiplier: 2,     factorySizeMultiplier:1]
-[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1.0845,     factorySizeMultiplier:1]
-[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
-[Info   :Lethal Progression] Enemy type: Flowerman (EnemyType)
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :me.loaforc.facilitymeltdown] Beginning Meltdown Sequence! I'd run if I was you!
-[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
-[Info   :me.loaforc.facilitymeltdown] Spawning a Crawler during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Crawler
-[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
-[Info   :me.loaforc.facilitymeltdown] Spawning a Puffer during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Puffer
-[Info   :me.loaforc.facilitymeltdown] Spawning a Flowerman during the meltdown sequence
-[Info   :me.loaforc.facilitymeltdown] Verifing... Flowerman
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
 [Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
-[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
-[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
-[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
-[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
-[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
-[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
-[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
-[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
-[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
-[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
-[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
-[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
-[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
-[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
-[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
-[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
-[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
-[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
-[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
-[Info   :Lethal Progression] Player 0 has 5 slots after setting.
-[Info   :Lethal Progression] Player 1 has 5 slots after setting.
-[Info   :Lethal Progression] Player 2 has 4 slots after setting.
-[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 5
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Player 2 has 4 slots after setting.
-[Info   :Lethal Progression] Player 2 has 5 slots after setting.
-[Info   :Lethal Progression] Player 0 has 4 slots after setting.
-[Info   :Lethal Progression] Player 0 has 5 slots after setting.
-[Info   :Lethal Progression] Player 0 has 5 slots after setting.
-[Info   :Lethal Progression] Player 0 has 5 slots after setting.
-[Info   :Lethal Progression] 5 change, 5 new stamina points, Adding 1.1 resulting in 12.54 stamina
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:2]
+[Info   :Lethal Progression] Enemy type: Crawler (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.56,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1]
 [Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
 [Info   :Lethal Progression] Player 3 has 4 slots after setting.
 [Info   :Lethal Progression] Player 3 has 5 slots after setting.
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 1 change, 6 new stamina points, Adding 0.22 resulting in 12.76 stamina
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: BaboonHawk (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:2]
-[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.46,     scrapAmountMultiplier: 1.0905,     factorySizeMultiplier:2]
-[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
-[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
-[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
-[Info   :Lethal Progression] Enemy type: SandSpider (EnemyType)
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] 3 players, 1 quotas, 40 initial cost, 105 person value, 30 quota value, 188 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 2 players, 1 quotas, 40 initial cost, 70 person value, 30 quota value, 143 total cost.
-[Info   :Lethal Progression] 5 change, 11 new stamina points, Adding 1.1 resulting in 13.86 stamina
-[Info   :Lethal Progression] 2 change, 13 new stamina points, Adding 0.44 resulting in 14.3 stamina
-[Info   :Lethal Progression] -5 change, 8 new stamina points, Adding -1.1 resulting in 13.2 stamina
-[Info   :Lethal Progression] -5 change, 3 new stamina points, Adding -1.1 resulting in 12.1 stamina
-[Info   :Lethal Progression] Player 0 has 5 slots after setting.
-[Info   :Lethal Progression] Player 0 has 6 slots after setting.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1]
-[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: Crawler (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
-[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
-[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
-[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
-[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
-[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
-[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
-[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
-[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
-[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
-[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
-[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
-[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
-[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
-[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
-[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
-[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
-[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
-[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
-[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
-[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
-[Info   :Lethal Progression] Player 0 has 6 slots after setting.
+[Info   :Lethal Progression] Player 1 has 4 slots after setting.
 [Info   :Lethal Progression] Player 1 has 5 slots after setting.
-[Info   :Lethal Progression] Player 3 has 5 slots after setting.
-[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 6
-[Info   :Lethal Progression] 3 players, 2 quotas, 40 initial cost, 105 person value, 60 quota value, 232 total cost.
-[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:2]
+[Info   :Lethal Progression] Player 1 has 5 slots after setting.
+[Info   :Lethal Progression] Player 1 has 6 slots after setting.
+[Info   :Lethal Progression] Player 1 has 6 slots after setting.
+[Info   :Lethal Progression] Player 1 has 7 slots after setting.
+[Info   :Lethal Progression] Player 1 has 7 slots after setting.
+[Info   :Lethal Progression] Player 1 has 7 slots after setting.
+[Info   :Lethal Progression] Player 1 has 7 slots after setting.
+[Info   :Lethal Progression] Enemy type: SandSpider (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.48,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1]
 [Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Lethal Progression] 4 players, 3 quotas, 40 initial cost, 140 person value, 90 quota value, 342 total cost.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1.15]
+[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Brutal_Company_Minus] Failed to remove 'Jester' from enemy pool, either it dosen't exist on the map or wrong string used.
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.5,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1.15]
+[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
+[Info   :Lethal Progression] Enemy type: HoarderBug (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
 [Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 5 radiators.
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 6 radiators.
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 7 radiators.
-[Info   :Lethal Progression] Player 2 has 4 slots after setting.
-[Info   :Lethal Progression] Player 2 has 5 slots after setting.
-[Info   :Lethal Progression] Player 2 has 5 slots after setting.
-[Info   :Lethal Progression] Player 2 has 6 slots after setting.
-[Info   :Lethal Progression] Player 2 has 6 slots after setting.
-[Info   :Lethal Progression] Player 2 has 6 slots after setting.
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 8 radiators.
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 9 radiators.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
 [Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] Enemy type: Doublewing (EnemyType)
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 2 players, 2 quotas, 40 initial cost, 70 person value, 60 quota value, 176 total cost.
-[Info   :Lethal Progression] 5 change, 8 new stamina points, Adding 1.1 resulting in 13.2 stamina
-[Info   :Lethal Progression] 1 change, 9 new stamina points, Adding 0.22 resulting in 13.42 stamina
-[Info   :Lethal Progression] 1 players, 2 quotas, 40 initial cost, 35 person value, 60 quota value, 120 total cost.
-[Info   :Lethal Progression] 1 players, 2 quotas, 40 initial cost, 35 person value, 60 quota value, 120 total cost.
-[Info   :Lethal Progression] Setting team value hud to -5
-[Info   :Lethal Progression] Changed team loot value by -5 turning into -5.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Setting team value hud to 1.25
+[Info   :Lethal Progression] Changed team loot value by 1.25 turning into 1.25.
+[Info   :Lethal Progression] Setting team value hud to 2.5
+[Info   :Lethal Progression] Changed team loot value by 1.25 turning into 2.5.
+[Info   :Lethal Progression] Setting team value hud to 3.75
+[Info   :Lethal Progression] Changed team loot value by 1.25 turning into 3.75.
+[Info   :Lethal Progression] Setting team value hud to 5
+[Info   :Lethal Progression] Changed team loot value by 1.25 turning into 5.
+[Info   :Lethal Progression] Setting team value hud to 6.25
+[Info   :Lethal Progression] Changed team loot value by 1.25 turning into 6.25.
+[Info   :Lethal Progression] Setting team value hud to 6.5
+[Info   :Lethal Progression] Changed team loot value by 0.25 turning into 6.5.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Enemy type: DocileLocustBees (EnemyType)
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is False. :rofl::rofl::rofl:
+[Info   :Brutal_Company_Minus] MapMultipliers = [scrapValueMultiplier: 0.4,     scrapAmountMultiplier: 1,     factorySizeMultiplier:1.15]
+[Info   :Brutal_Company_Minus] IsAntiCoildHead = Unity.Netcode.NetworkVariable`1[System.Boolean]
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
+[Info   :me.loaforc.facilitymeltdown] ACTIVATED GEIGER COUNTER
+[Info   :me.loaforc.facilitymeltdown] me when the on value is True. :rofl::rofl::rofl:
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Setting team value hud to 0
+[Info   :Lethal Progression] 3 players, 0 quotas, 40 initial cost, 105 person value, 0 quota value, 145 total cost.
+[Info   :Lethal Progression] Changed team loot value by 0 turning into 0.
