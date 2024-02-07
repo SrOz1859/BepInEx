@@ -47,14 +47,14 @@
 [Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
 [Info   :Lethal Company Input Utils] InputUtils 0.6.2 has finished loading!
 [Info   :   BepInEx] Loading [LethalMissions 1.1.8]
-[Info   :LethalMissions] Loading missions for language: en
+[Info   :LethalMissions] Loading missions for language: es
 [Info   :LethalMissions] Installing patches...
 [Info   :LethalMissions] Loading assets...
 [Info   :LethalMissions] MissionsMenu asset loaded
 [Info   :LethalMissions] MissionItem asset loaded
 [Info   :LethalMissions] Registering commands...
 [Warning:LethalMissions] Using atomic.terminalapi for commands
-[Message:Terminal Api] Not in game, waiting to be in game to add missions keyword.
+[Message:Terminal Api] Not in game, waiting to be in game to add misiones keyword.
 [Info   :LethalMissions] Patching with netcode...
 [Info   :LethalMissions] Plugin LethalMissions is loaded!
 [Info   :   BepInEx] Loading [ReservedItemSlotCore 1.8.17]
@@ -184,5 +184,1852 @@ Parameter name: cachedAudio
 [Warning:ainavt.lc.lethalconfig] No UI component found for config of type Color (More Ship Upgrades/Night Vision/Night Vision Color)
 [Info   :ainavt.lc.lethalconfig] Generated 13 mod entries.
 [Info   :ainavt.lc.lethalconfig] Generated 310 configs, of which 291 were missing and registered.
-[Info   :ainavt.lc.lethalconfig] Saved config values for 1 items.
-[Info   :ainavt.lc.lethalconfig] Modified 1 item(s) that requires a restart.
+[Info   : LethalLib] Added MedKitMap to ExperimentationLevel
+[Info   : LethalLib] Added MedKitMap to AssuranceLevel
+[Info   : LethalLib] Added MedKitMap to VowLevel
+[Info   : LethalLib] Added MedKitMap to CompanyBuildingLevel
+[Info   : LethalLib] Added MedKitMap to MarchLevel
+[Info   : LethalLib] Added MedKitMap to RendLevel
+[Info   : LethalLib] Added MedKitMap to DineLevel
+[Info   : LethalLib] Added MedKitMap to OffenseLevel
+[Info   : LethalLib] Added MedKitMap to TitanLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to ExperimentationLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to AssuranceLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to VowLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to CompanyBuildingLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to MarchLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to RendLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to DineLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to OffenseLevel
+[Info   : LethalLib] Added ScrapWheelbarrow to TitanLevel
+[Info   : LethalLib] Added ScavExtract to ExperimentationLevel
+[Info   : LethalLib] Added ScavExtract to AssuranceLevel
+[Info   : LethalLib] Added ScavExtract to VowLevel
+[Info   : LethalLib] Added ScavExtract to CompanyBuildingLevel
+[Info   : LethalLib] Added ScavExtract to MarchLevel
+[Info   : LethalLib] Added ScavExtract to RendLevel
+[Info   : LethalLib] Added ScavExtract to DineLevel
+[Info   : LethalLib] Added ScavExtract to OffenseLevel
+[Info   : LethalLib] Added ScavExtract to TitanLevel
+[Info   : LethalLib] Added HoardingBugEggs to ExperimentationLevel
+[Info   : LethalLib] Added HoardingBugEggs to AssuranceLevel
+[Info   : LethalLib] Added HoardingBugEggs to VowLevel
+[Info   : LethalLib] Added HoardingBugEggs to CompanyBuildingLevel
+[Info   : LethalLib] Added HoardingBugEggs to MarchLevel
+[Info   : LethalLib] Added HoardingBugEggs to RendLevel
+[Info   : LethalLib] Added HoardingBugEggs to DineLevel
+[Info   : LethalLib] Added HoardingBugEggs to OffenseLevel
+[Info   : LethalLib] Added HoardingBugEggs to TitanLevel
+[Info   : LethalLib] Added DataPC to ExperimentationLevel
+[Info   : LethalLib] Added DataPC to AssuranceLevel
+[Info   : LethalLib] Added DataPC to VowLevel
+[Info   : LethalLib] Added DataPC to CompanyBuildingLevel
+[Info   : LethalLib] Added DataPC to MarchLevel
+[Info   : LethalLib] Added DataPC to RendLevel
+[Info   : LethalLib] Added DataPC to DineLevel
+[Info   : LethalLib] Added DataPC to OffenseLevel
+[Info   : LethalLib] Added DataPC to TitanLevel
+[Info   : LethalLib] Added Heart to ExperimentationLevel
+[Info   : LethalLib] Added Heart to AssuranceLevel
+[Info   : LethalLib] Added Heart to VowLevel
+[Info   : LethalLib] Added Heart to CompanyBuildingLevel
+[Info   : LethalLib] Added Heart to MarchLevel
+[Info   : LethalLib] Added Heart to RendLevel
+[Info   : LethalLib] Added Heart to DineLevel
+[Info   : LethalLib] Added Heart to OffenseLevel
+[Info   : LethalLib] Added Heart to TitanLevel
+[Info   : LethalLib] Added Crucifix to ExperimentationLevel
+[Info   : LethalLib] Added Crucifix to AssuranceLevel
+[Info   : LethalLib] Added Crucifix to VowLevel
+[Info   : LethalLib] Added Crucifix to CompanyBuildingLevel
+[Info   : LethalLib] Added Crucifix to MarchLevel
+[Info   : LethalLib] Added Crucifix to RendLevel
+[Info   : LethalLib] Added Crucifix to DineLevel
+[Info   : LethalLib] Added Crucifix to OffenseLevel
+[Info   : LethalLib] Added Crucifix to TitanLevel
+[Info   : LethalLib] Added candelabra to ExperimentationLevel
+[Info   : LethalLib] Added candelabra to AssuranceLevel
+[Info   : LethalLib] Added candelabra to VowLevel
+[Info   : LethalLib] Added candelabra to CompanyBuildingLevel
+[Info   : LethalLib] Added candelabra to MarchLevel
+[Info   : LethalLib] Added candelabra to RendLevel
+[Info   : LethalLib] Added candelabra to DineLevel
+[Info   : LethalLib] Added candelabra to OffenseLevel
+[Info   : LethalLib] Added candelabra to TitanLevel
+[Info   : LethalLib] Added Teddy Bear to ExperimentationLevel
+[Info   : LethalLib] Added Teddy Bear to AssuranceLevel
+[Info   : LethalLib] Added Teddy Bear to VowLevel
+[Info   : LethalLib] Added Teddy Bear to CompanyBuildingLevel
+[Info   : LethalLib] Added Teddy Bear to MarchLevel
+[Info   : LethalLib] Added Teddy Bear to RendLevel
+[Info   : LethalLib] Added Teddy Bear to DineLevel
+[Info   : LethalLib] Added Teddy Bear to OffenseLevel
+[Info   : LethalLib] Added Teddy Bear to TitanLevel
+[Info   : LethalLib] Added Bones to ExperimentationLevel
+[Info   : LethalLib] Added Bones to AssuranceLevel
+[Info   : LethalLib] Added Bones to VowLevel
+[Info   : LethalLib] Added Bones to CompanyBuildingLevel
+[Info   : LethalLib] Added Bones to MarchLevel
+[Info   : LethalLib] Added Bones to RendLevel
+[Info   : LethalLib] Added Bones to DineLevel
+[Info   : LethalLib] Added Bones to OffenseLevel
+[Info   : LethalLib] Added Bones to TitanLevel
+[Info   : LethalLib] Added Pentagram to ExperimentationLevel
+[Info   : LethalLib] Added Pentagram to AssuranceLevel
+[Info   : LethalLib] Added Pentagram to VowLevel
+[Info   : LethalLib] Added Pentagram to CompanyBuildingLevel
+[Info   : LethalLib] Added Pentagram to MarchLevel
+[Info   : LethalLib] Added Pentagram to RendLevel
+[Info   : LethalLib] Added Pentagram to DineLevel
+[Info   : LethalLib] Added Pentagram to OffenseLevel
+[Info   : LethalLib] Added Pentagram to TitanLevel
+[Info   : LethalLib] Added Bomb to ExperimentationLevel
+[Info   : LethalLib] Added Bomb to AssuranceLevel
+[Info   : LethalLib] Added Bomb to VowLevel
+[Info   : LethalLib] Added Bomb to CompanyBuildingLevel
+[Info   : LethalLib] Added Bomb to MarchLevel
+[Info   : LethalLib] Added Bomb to RendLevel
+[Info   : LethalLib] Added Bomb to DineLevel
+[Info   : LethalLib] Added Bomb to OffenseLevel
+[Info   : LethalLib] Added Bomb to TitanLevel
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Info   : LethalLib] Adding 0 items to terminal
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Advanced Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Night Vision Goggles
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Medkit
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Peeper
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Helmet
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Diving Kit
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Wheelbarrow
+[Info   : LethalLib] FacilityMeltdown registered shop item: Geiger Counter
+[Info   : LethalLib] MoreShipUpgrades registered item: Shopping Cart
+[Info   : LethalLib] MoreShipUpgrades registered item: Lost Scavenger
+[Info   : LethalLib] MoreShipUpgrades registered item: Hoarder Bug Egg
+[Info   : LethalLib] MoreShipUpgrades registered item: Hoarding Bug Eggs
+[Info   : LethalLib] MoreShipUpgrades registered item: Data Disc
+[Info   : LethalLib] MoreShipUpgrades registered item: Data PC
+[Info   : LethalLib] MoreShipUpgrades registered item: Demonic Tome
+[Info   : LethalLib] MoreShipUpgrades registered item: Heart
+[Info   : LethalLib] MoreShipUpgrades registered item: Crucifix
+[Info   : LethalLib] MoreShipUpgrades registered item: Candelabra
+[Info   : LethalLib] MoreShipUpgrades registered item: Teddy Bear
+[Info   : LethalLib] MoreShipUpgrades registered item: Bones
+[Info   : LethalLib] MoreShipUpgrades registered item: Pentagram
+[Info   : LethalLib] MoreShipUpgrades registered item: Bomb
+[Info   : LethalLib] Adding 9 items to terminal
+[Info   : LethalLib] Adding Portable Tele to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 300, Item index: 13
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 300, Item index: 13
+[Info   : LethalLib] Generated keyword: portable-tele
+[Info   : LethalLib] Adding Advanced Portable Tele to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 1750, Item index: 14
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 1750, Item index: 14
+[Info   : LethalLib] Generated keyword: advanced-portable-tele
+[Info   : LethalLib] Adding Night Vision Goggles to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 380, Item index: 15
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 380, Item index: 15
+[Info   : LethalLib] Generated keyword: night-vision-goggles
+[Info   : LethalLib] Adding Medkit to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 300, Item index: 16
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 300, Item index: 16
+[Info   : LethalLib] Generated keyword: medkit
+[Info   : LethalLib] Adding Peeper to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 500, Item index: 17
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 500, Item index: 17
+[Info   : LethalLib] Generated keyword: peeper
+[Info   : LethalLib] Adding Helmet to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 750, Item index: 18
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 750, Item index: 18
+[Info   : LethalLib] Generated keyword: helmet
+[Info   : LethalLib] Adding Diving Kit to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 650, Item index: 19
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 650, Item index: 19
+[Info   : LethalLib] Generated keyword: diving-kit
+[Info   : LethalLib] Adding Wheelbarrow to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 400, Item index: 20
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 400, Item index: 20
+[Info   : LethalLib] Generated keyword: wheelbarrow
+[Info   : LethalLib] Adding Geiger Counter to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 90, Item index: 21
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 90, Item index: 21
+[Info   : LethalLib] Generated keyword: geiger-counter
+[Message:Terminal Api] In game, applying any changes now.
+[Message:Terminal Api] Added misiones keyword to terminal keywords.
+[Message:Terminal Api] Added health keyword to terminal keywords.
+[Message:Terminal Api] Added reactor keyword to terminal keywords.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   : LethalLib] Diagetic mixer is Diagetic
+[Info   : LethalLib] Found 15 prefabs to fix
+[Info   : LethalLib] Set mixer group for Bomb in Bomb to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Pentagram in Pentagram to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Bones in Bones to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Teddy Bear in Teddy Bear to Diagetic:Master
+[Info   : LethalLib] Set mixer group for candelabra in candelabra to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Crucifix in Crucifix to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Heart in Heart to Diagetic:Master
+[Info   : LethalLib] Set mixer group for DataPC in DataPC to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Disc in Disc to Diagetic:Master
+[Info   : LethalLib] Set mixer group for ScavExtract in ScavExtract to Diagetic:Master
+[Info   : LethalLib] Set mixer group for lgu_cart in ScrapWheelbarrow to Diagetic:Master
+[Info   : LethalLib] Set mixer group for StoreWheelbarrow in StoreWheelbarrow to Diagetic:Master
+[Info   : LethalLib] Fixing Item savedata!!
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into quick menu...
+[Info   :More Ship Upgrades] [LGUStore] No save file found for slot 0. Creating new.
+[Info   :More Ship Upgrades] [LGUStore] SteamID is not available yet, waiting...
+[Info   :More Ship Upgrades] [UpgradeBus] Successfully reconstructed with hosts config.
+[Info   :More Ship Upgrades] [LGUStore] Successfully spawned 18 upgrade objects.
+[Info   :More Ship Upgrades] [LGUStore] Loading SteamID: 76561198260336463
+[Info   :More Ship Upgrades] [LGUStore] 76561198260336463 Was not found in save dictionary! Creating new save for ID.
+[Info   :ReservedItemSlotCore-1.8.17] Finalizing sync with server. New hotbar size: 6
+[Info   :ReservedItemSlotCore-1.8.17] Adding 2 reserved item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore-1.8.17] Adding Reserved item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore-1.8.17] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
+[Info   :ReservedItemSlotCore-1.8.17] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Info   :More Ship Upgrades] [LGUStore] Client has requested hosts client
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync request from client: 1
+[Info   :ReservedItemSlotCore-1.8.17] Sent sync to client.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 1
+[Info   :More Ship Upgrades] [LGUStore] Now sharing save file with clients...
+[Info   :More Ship Upgrades] [LGUStore] Save file received, registering upgrade objects and deserializing.
+[Info   :More Ship Upgrades] [LGUStore] SHARED SAVE FILE: Loading index 0 save under steam ID: 76561198260336463
+[Info   :More Ship Upgrades] [UpgradeBus] Sale data empty, continuing...
+[Info   :More Ship Upgrades] [LGUStore] Applying loaded upgrades...
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :More Ship Upgrades] [LGUStore] Client has requested hosts client
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync request from client: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sent sync to client.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 4
+[Info   :More Ship Upgrades] [LGUStore] Now sharing save file with clients...
+[Info   :More Ship Upgrades] [LGUStore] Save file already received from host, disregarding.
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :More Ship Upgrades] [LGUStore] Client has requested hosts client
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync request from client: 5
+[Info   :ReservedItemSlotCore-1.8.17] Sent sync to client.
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 5
+[Info   :More Ship Upgrades] [LGUStore] Now sharing save file with clients...
+[Info   :More Ship Upgrades] [LGUStore] Save file already received from host, disregarding.
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Skipped RepairValve mission as there are no valves on the map.
+[Info   :LethalMissions] Skipped LightningRod mission as the weather is not stormy.
+[Info   :LethalMissions] Generated Mission: Escapa antes de las {0}, Type: OutOfTime, Objective: ¡No te quedes en la luna después de las {0}! ¡Es un lugar peligroso!
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (3) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (3) Item: Pro-flashlight Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (3) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (3) Item: Walkie-talkie Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Walkie-talkie Switching to previous slot: 0
+[Info   :More Ship Upgrades] [LGUStore] Request to sync credits to $151 received, calling ClientRpc...
+[Info   :More Ship Upgrades] [LGUStore] Credits have been synced to $151
+[Info   :More Ship Upgrades] [LGUStore] Lightning Rod is registered as a shared upgrade! Calling ServerRpc...
+[Info   :More Ship Upgrades] [LGUStore] Received server request to handle shared upgrade for: Lightning Rod increment: False
+[Info   :More Ship Upgrades] [LGUStore] Received client request to handle shared upgrade for: Lightning Rod increment: False
+[Info   :More Ship Upgrades] [LGUStore] Node found and unlocked (level = 0)
+[Info   :More Ship Upgrades] [LGUStore] First purchase, executing BaseUpgrade.load()
+[Info   :More Ship Upgrades] [LGUStore] Received and updated save info for client: 76561198260336463
+[Info   :More Ship Upgrades] [LGUStore] Received and updated save info for client: 0
+[Info   :More Ship Upgrades] [LGUStore] Received and updated save info for client: 0
+[Info   :More Ship Upgrades] [LGUStore] Received and updated save info for client: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (2) Item: Walkie-talkie Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Skipped LightningRod mission as the weather is not stormy.
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :LethalMissions] Generated Mission: Atestigua un suceso celestial, Type: WitnessDeath, Objective: Observa el dramático adiós de un compañero de la nave
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :me.loaforc.facilitymeltdown] Beginning Meltdown Sequence! I'd run if I was you!
+[Info   :me.loaforc.facilitymeltdown] Spawning a Spring during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Spring
+[Info   :me.loaforc.facilitymeltdown] Spawning a Crawler during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Crawler
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Crawler during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Crawler
+[Info   :me.loaforc.facilitymeltdown] Spawning a Crawler during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Crawler
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 3
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :LethalMissions] Generated Mission: Preserva la Vida del Grupo, Type: SurviveCrewmates, Objective: ¡Asegurate de que al menos {0} tripulantes sobrevivan a la odisea espacial!
+[Info   :LethalMissions] Generated Mission: Atestigua un suceso celestial, Type: WitnessDeath, Objective: Observa el dramático adiós de un compañero de la nave
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 0
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (1) Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Walkie-talkie Switching to previous slot: 0
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Skipped ObtainGenerator mission as there is no apparatus on the map.
+[Info   :LethalMissions] Generated Mission: Encuentra chatarra, Type: FindScrap, Objective: Encuentra el siguiente objeto: {0}
+[Info   :LethalMissions] Generated Mission: Atestigua un suceso celestial, Type: WitnessDeath, Objective: Observa el dramático adiós de un compañero de la nave
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 5 Slot: 0
+[Info   :More Ship Upgrades] [LGUStore] Players fired, reseting upgrade bus.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 2 radiators.
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Generated Mission: Preserva la Vida del Grupo, Type: SurviveCrewmates, Objective: ¡Asegurate de que al menos {0} tripulantes sobrevivan a la odisea espacial!
+[Info   :LethalMissions] Generated Mission: Obteniendo el Aparato, Type: ObtainGenerator, Objective: Lleva el generador de la fábrica a la nave.
+[Info   :LethalMissions] Generated Mission: Escapa antes de las {0}, Type: OutOfTime, Objective: ¡No te quedes en la luna después de las {0}! ¡Es un lugar peligroso!
+[Info   :me.loaforc.facilitymeltdown] Beginning Meltdown Sequence! I'd run if I was you!
+[Info   :me.loaforc.facilitymeltdown] Spawning a Blob during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Blob
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Blob during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Blob
+[Info   :me.loaforc.facilitymeltdown] Spawning a Blob during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Blob
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 3 radiators.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 5 radiators.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 6 radiators.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Skipped RepairValve mission as there are no valves on the map.
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :LethalMissions] Generated Mission: Obteniendo el Aparato, Type: ObtainGenerator, Objective: Lleva el generador de la fábrica a la nave.
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 3
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (2) Item: Pro-flashlight Slot: 4
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (2) Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Pro-flashlight
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 5 radiators.
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 2 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 2 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 2 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 2 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Enemy spawned at (-14.89, -1.75, -48.64)
+[Info   :LethalMissions] Generated Mission: Consigue una colmena, Type: ObtainHive, Objective: Porque incluso en el espacio, todos necesitamos un poco de miel y risas
+[Info   :LethalMissions] Generated Mission: Obteniendo el Aparato, Type: ObtainGenerator, Objective: Lleva el generador de la fábrica a la nave.
+[Info   :LethalMissions] Generated Mission: Preserva la Vida del Grupo, Type: SurviveCrewmates, Objective: ¡Asegurate de que al menos {0} tripulantes sobrevivan a la odisea espacial!
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 1
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 5 radiators.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 6 radiators.
+[Info   :me.loaforc.facilitymeltdown] Beginning Meltdown Sequence! I'd run if I was you!
+[Info   :me.loaforc.facilitymeltdown] Spawning a Crawler during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Crawler
+[Info   :me.loaforc.facilitymeltdown] Spawning a Blob during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Blob
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Bunker Spider during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Bunker Spider
+[Info   :me.loaforc.facilitymeltdown] Spawning a Blob during the meltdown sequence
+[Info   :me.loaforc.facilitymeltdown] Verifing... Blob
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 7 radiators.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 8 radiators.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 9 radiators.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Warning:me.loaforc.facilitymeltdown] Failed to spawn effect, raycast failed.
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Skipped RepairValve mission as there are no valves on the map.
+[Info   :LethalMissions] Generated Mission: Preserva la Vida del Grupo, Type: SurviveCrewmates, Objective: ¡Asegurate de que al menos {0} tripulantes sobrevivan a la odisea espacial!
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (1) Item: Pro-flashlight Slot: 4
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (1) Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Walkie-talkie Switching to previous slot: 0
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (2) Item: Walkie-talkie Slot: 5
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (2) Item: Walkie-talkie Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 2 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 2 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :More Ship Upgrades] [UpgradeBus] Generating sales with seed: 728203 on this client...
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.6622139 for Lightning Rod.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.604031 for Malware Broadcaster.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.8796042 for Walkie GPS.
+[Info   :More Ship Upgrades] [UpgradeBus] Generating sales with seed: 78798 on this client...
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.748034 for Better Scanner.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.8760207 for Lightning Rod.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.866577 for Strong Legs.
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 2 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Walkie-talkie Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 2 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Skipped LightningRod mission as the weather is not stormy.
+[Info   :LethalMissions] Enemy spawned at (46.04, -12.37, -103.84)
+[Info   :LethalMissions] Generated Mission: Consigue una colmena, Type: ObtainHive, Objective: Porque incluso en el espacio, todos necesitamos un poco de miel y risas
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 2
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Pro-flashlight
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Skipped ObtainGenerator mission as there is no apparatus on the map.
+[Info   :LethalMissions] Skipped LightningRod mission as the weather is not stormy.
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 0
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 1 Slot: 3
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Generated Mission: Elimina al Monstruo, Type: KillMonster, Objective: Embarcate en una misión audaz para eliminar a una amenazante criatura
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :LethalMissions] Generated Mission: Encuentra chatarra, Type: FindScrap, Objective: Encuentra el siguiente objeto: {0}
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Pro-flashlight Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Enemy spawned at (-24.92, -3.81, -31.15)
+[Info   :LethalMissions] Generated Mission: Recupera el cuerpo de un amigo, Type: RecoverBody, Objective: Porque ser un héroe incluye ser también sepulturero espacial
+[Info   :LethalMissions] Generated Mission: Atestigua un suceso celestial, Type: WitnessDeath, Objective: Observa el dramático adiós de un compañero de la nave
+[Info   :LethalMissions] Generated Mission: Consigue una colmena, Type: ObtainHive, Objective: Porque incluso en el espacio, todos necesitamos un poco de miel y risas
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 0
+[Info   :More Ship Upgrades] [UpgradeBus] Generating sales with seed: 77606 on this client...
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.6513883 for Beekeeper.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.8916056 for Better Scanner.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.7555472 for Discombobulator.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.6134718 for Protein Powder.
+[Info   :More Ship Upgrades] [UpgradeBus] Generating sales with seed: 523612 on this client...
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.7040795 for Bigger Lungs.
+[Info   :More Ship Upgrades] [UpgradeBus] Set sale percentage to: 0.8750105 for Walkie GPS.
+[Info   :More Ship Upgrades] [LGUStore] Request to sync credits to $491 received, calling ClientRpc...
+[Info   :More Ship Upgrades] [LGUStore] Credits have been synced to $491
+[Info   :More Ship Upgrades] [LGUStore] New contract details received. level: 41 Experimentation, type: 0
+[Info   :More Ship Upgrades] [CommandParser] User accepted a data contract on 41 Experimentation
+[Info   :More Ship Upgrades] [CommandParser] User tried starting a new contract while they still have a data contract on 41 Experimentation!
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 2 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 2 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 2 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 2 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :More Ship Upgrades] [CommandParser] User tried starting a new contract while they still have a data contract on 41 Experimentation!
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player (2) Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 4 radiators.
+[Info   :More Ship Upgrades] [ContractObject] data-DataPC(Clone) spawned and activated.
+[Info   :More Ship Upgrades] [DataPCScript] Received Broadcasted minigame info!
+Key: 3.46.35.226
+user: dFmhdy
+password: ab5HiVS
+[Info   :LethalMissions] Host or server -  Generating missions
+[Info   :LethalMissions] Generated Mission: Escapa antes de las {0}, Type: OutOfTime, Objective: ¡No te quedes en la luna después de las {0}! ¡Es un lugar peligroso!
+[Info   :LethalMissions] Generated Mission: Obteniendo el Aparato, Type: ObtainGenerator, Objective: Lleva el generador de la fábrica a la nave.
+[Info   :LethalMissions] Generated Mission: Elimina al Monstruo, Type: KillMonster, Objective: Embarcate en una misión audaz para eliminar a una amenazante criatura
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 5 radiators.
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Walkie-talkie
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Walkie-talkie Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (2) Item: Walkie-talkie Switching to previous slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :LethalMissions] LethalMissions:  Destroying NetworkHandler on Host
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
